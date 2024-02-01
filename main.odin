@@ -8,7 +8,7 @@ ols :: `{
   "enable_semantic_tokens": false,
   "enable_document_symbols": true,
   "enable_hover": true,
-  "checker_args": "-vet -strict-style"
+  "checker_args": "-vet -strict-style",
   "enable_snippets": true
 }`
 
